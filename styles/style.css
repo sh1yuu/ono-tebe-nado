@@ -2,6 +2,7 @@
 body {
   background: #fff;
   display: grid;
+  margin: 0;
 }
 
 .header {
