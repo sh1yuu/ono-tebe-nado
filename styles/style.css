@@ -10,7 +10,6 @@ body {
   margin: 92px 49px 92px 51px;
   display: grid;
   grid-template-columns: repeat(6, 1fr);
-  margin: 92px 49px 92px 51px;
 }
 
 .header__menu {
@@ -189,9 +188,6 @@ body {
 }
 
 .lots__heading {
-  margin-left: 50px;
-  margin-right: 1179px;
-  margin-bottom: 532px;
   font-size: 40px;
   font-style: normal;
   font-weight: 700;
