@@ -104,21 +104,19 @@ body {
   text-transform: uppercase;
   justify-content: space-between;
   padding: 165px 50px 127px;
+  letter-spacing: 30px;
   z-index: 3;
 }
 
 .aligned-text {
-  letter-spacing: 30px;
   align-self: start;
 }
 
 .aligned-text_center {
-  letter-spacing: 30px;
   align-self: center;
 }
 
 .aligned-text_right {
-  letter-spacing: 30px;
   align-self: end;
 }
 
@@ -139,7 +137,6 @@ body {
 }
 
 .cover__description-text {
-  width: 633px;
   text-align: center;
   font-size: 22px;
   font-style: normal;
